@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    int a = 9, b = 9;
+    int a = 10, b = 10;
     cout << "THe sum of a and b is  : " << a + b;
 }
